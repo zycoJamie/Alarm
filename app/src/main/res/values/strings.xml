@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Alarm</string>
+    <string name="add_alarm_btn">add alarm</string>
+    <string name="there_for_you">there for you</string>
+    <string name="start">start</string>
+    <string name="pause">pause</string>
+    <string name="resume">resume</string>
+    <string name="reset">reset</string>
+    <string name="pull">pull</string>
+</resources>
